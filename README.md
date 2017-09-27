@@ -45,7 +45,7 @@ CentOS 7  | CentOS 7 | https://cloud.centos.org/centos/7/images/
 Ubuntu 14.04 | Ubuntu 14.04 | https://cloud-images.ubuntu.com/trusty/
 Ubuntu 16.04 | Ubuntu 16.04 | https://cloud-images.ubuntu.com/xenial/
 
-Optional images
+## Optional images
 If the following images are used, these are the recommended names and sources
 
 Image | Recommended name | Image source
