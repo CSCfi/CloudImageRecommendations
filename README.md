@@ -41,21 +41,21 @@ If you adhere to these guidelines the following images must exist on your instal
 
 Image | Recommended name | Image source
 --- | --- | ---
-CentOS 7  | CentOS 7 | https://cloud.centos.org/centos/7/images/
-Ubuntu 14.04 | Ubuntu 14.04 | https://cloud-images.ubuntu.com/trusty/
-Ubuntu 16.04 | Ubuntu 16.04 | https://cloud-images.ubuntu.com/xenial/
+CentOS 7  | CentOS-7 | https://cloud.centos.org/centos/7/images/
+Ubuntu 14.04 | Ubuntu-14.04 | https://cloud-images.ubuntu.com/trusty/
+Ubuntu 16.04 | Ubuntu-16.04 | https://cloud-images.ubuntu.com/xenial/
 
 ## Optional images
 If the following images are used, these are the recommended names and sources
 
 Image | Recommended name | Image source
 --- | --- | ---
-CentOS 6 | CentOS 6 | https://cloud.centos.org/centos/6/images/
+CentOS 6 | CentOS-6 | https://cloud.centos.org/centos/6/images/
 CoreOS | CoreOS | https://stable.release.core-os.net/amd64-usr/current
-Debian 9 | Debian 9 | https://cdimage.debian.org/cdimage/openstack/
-Fedora 26 | Fedora 26 | https://cloud.fedoraproject.org/
-Fedora Atomic 26 | Atomic 26 | https://getfedora.org/en/atomic/download/
-Ubuntu 17.04 | Ubuntu 17.04 | https://cloud-images.ubuntu.com/zesty/
+Debian 9 | Debian-9 | https://cdimage.debian.org/cdimage/openstack/
+Fedora 26 | Fedora-26 | https://cloud.fedoraproject.org/
+Fedora Atomic 26 | Atomic-26 | https://getfedora.org/en/atomic/download/
+Ubuntu 17.04 | Ubuntu-17.04 | https://cloud-images.ubuntu.com/zesty/
 
 ## Virtual machine appliances
 For this to benefit users and providers more, these policies can be extended to virtual machine appliances. These are in place to enable easy sharing of these appliances. To adhere to these policies an appliance must
@@ -72,8 +72,8 @@ These rules only consider virtual machine appliances that are meant to be shared
 ## Available virtual machine appliances
 Recommended name | Base Image | Description | Build source | Image source
 --- | --- | --- | --- | --- 
-CentOS 7 CUDA | CentOS 7 | CentOS 7 with newest CUDA packages | https:// | https://
-Ubuntu 16.04 CUDA | Ubuntu 16.04 | Ubuntu 16.04 with newest CUDA packages | https:// | https://
+CentOS-7-CUDA | CentOS 7 | CentOS 7 with newest CUDA packages | https:// | https://
+Ubuntu-16.04-CUDA | Ubuntu 16.04 | Ubuntu 16.04 with newest CUDA packages | https:// | https://
 
 ## Additional images
 The service provider may provide any additional images they see fit.
