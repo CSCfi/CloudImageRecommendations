@@ -66,7 +66,7 @@ For this to benefit users and providers more, these policies can be extended to 
  * must be accessible via an URL provided by the person/organization responsible for the image.
  * be updated at least once a month.
 
-These rules only consider virtual machine appliances that are meant to be shared. Service providers may have any site specific virtual machine appliances they see fit.
+These rules only consider virtual machine appliances that are meant to be shared. Service providers may provide any site specific virtual machine appliances they see fit.
 
 ## Available virtual machine appliances
 Recommended name | Base Image | Description | Build source | Image source
