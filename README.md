@@ -63,7 +63,8 @@ For this to benefit users and providers more, these policies can be extended to 
  * be based on one of the base images mentioned above.
  * adhere to the same security policies as the base image. Namely no extra users with password logins. Only ssh key authentication with the OS default account.
  * be automatically buildable. Some tools that can be used are are disk-image-builder or packer.io. The code to build these must be publicly accessible.
- * must be accessible via an URL provided by the person/organization responsible for the image.
+ * be in qcow format, not raw format for space reasons. Conversion can be done at import time.
+ * be accessible via an URL provided by the person/organization responsible for the image.
  * be updated at least once a month.
 
 These rules only consider virtual machine appliances that are meant to be shared. Service providers may provide any site specific virtual machine appliances they see fit.
