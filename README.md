@@ -57,11 +57,7 @@ Fedora 26 | Fedora 26 | https://cloud.fedoraproject.org/
 Fedora Atomic 26 | Atomic 26 | https://getfedora.org/en/atomic/download/
 Ubuntu 17.04 | Ubuntu 17.04 | https://cloud-images.ubuntu.com/zesty/
 
-
-## Additional images
-The service provider may provide any additional images they see fit.
-
-Virtual machine appliances
+## Virtual machine appliances
 For this to benefit users and providers more, these policies can be extended to virtual machine appliances. These are in place to enable easy sharing of these appliances. To adhere to these policies an appliance must
 
  * be based on one of the base images mentioned above.
@@ -70,11 +66,16 @@ For this to benefit users and providers more, these policies can be extended to 
  * must be accessible via an URL provided by the person/organization responsible for the image.
  * be updated at least once a month.
 
+These rules only consider virtual machine appliances that are meant to be shared. Service providers may have any site specific virtual machine appliances they see fit.
+
 ## Available virtual machine appliances
 Recommended name | Base Image | Description | Build source | Image source
 --- | --- | --- | --- | --- 
 CentOS 7 CUDA | CentOS 7 | CentOS 7 with newest CUDA packages | https:// | https://
 Ubuntu 16.04 CUDA | Ubuntu 16.04 | Ubuntu 16.04 with newest CUDA packages | https:// | https://
+
+## Additional images
+The service provider may provide any additional images they see fit.
 
 ## Tooling
 Insert links to tooling here
