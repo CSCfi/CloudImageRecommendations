@@ -1,10 +1,12 @@
 # Cloud Operating System Image Recommendations for NRENs and other Scientific Service Providers
 
-Version: 0.2 September 2017
+October 2017
 
-Authors: Kalle Happonen, Oscar Kraemer
+Authors: Kalle Happonen, Oscar Kraemer, Saverio Proto, Stig Telfer
 
 This document will updated regularly and be kept up to date with the operating system versions.
+
+This document has been discussed in the following forums (not officially endorsed yet): Géant SIG-CISS, NeIC Glenna2 project  
 
 ## Background and Reasoning
 
@@ -79,5 +81,9 @@ Ubuntu-16.04-CUDA | Ubuntu 16.04 | Ubuntu 16.04 with newest CUDA packages | http
 The service provider may provide any additional images they see fit.
 
 ## Tooling
-Insert links to tooling here
+This section contains links to tools. Not all tools are usable out of the box, and not all tools adhere to these recommendations.
+
+Organization | Adheres to these recommendations | URL
+---|---|---
+SWITCH | | https://github.com/switch-ch/SWITCHengines-image-builder
 
