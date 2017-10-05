@@ -39,7 +39,7 @@ When an updated image is added, it's recommended that the old image is hidden, i
 The image format (QCOW/RAW) can be chosen freely based on the best fit for the installation.
 
 ## Mandatory images
-If you adhere to these guidelines the following images must exist on your installation.
+If you adhere to these guidelines the following images must exist on your installation. The images may not be modified in any way before providing them to the end-users.
 
 Image | Recommended name | Image source
 --- | --- | ---
@@ -48,7 +48,7 @@ Ubuntu 14.04 | Ubuntu-14.04 | https://cloud-images.ubuntu.com/trusty/
 Ubuntu 16.04 | Ubuntu-16.04 | https://cloud-images.ubuntu.com/xenial/
 
 ## Optional images
-If the following images are used, these are the recommended names and sources
+If the following images are used, these are the recommended names and sources. The images may not be modified in any way before providing them to the end-users.
 
 Image | Recommended name | Image source
 --- | --- | ---
